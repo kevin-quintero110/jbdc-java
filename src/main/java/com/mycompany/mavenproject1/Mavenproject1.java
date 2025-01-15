@@ -1,4 +1,4 @@
-/** que es esto **/
+/** nuevo cambio**/
 package com.mycompany.mavenproject1;
 import java.sql.Connection;
 import java.sql.DriverManager;

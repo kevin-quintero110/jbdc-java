@@ -9,7 +9,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /* NUEVO CAMBIO */
-//HOLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA 123
 /**
  *
  * @author kevin

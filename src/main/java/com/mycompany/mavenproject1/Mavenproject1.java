@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /** nuevo cambio**/
+=======
+/** que es esto 1223 **/
+>>>>>>> f00d9ee4bdf545c6a36ab8d004faa7d56a98d36d
 package com.mycompany.mavenproject1;
 import java.sql.Connection;
 import java.sql.DriverManager;
